@@ -26,6 +26,11 @@ $projects = [
         "title" => "Blogg3n - PHP",
         "description" => "Ett PHP-baserat bloggsystem för hantering och publicering av inlägg.",
         "link" => "https://github.com/norre2k/Blogg3n"
+    ],
+    [
+        "title" => "Tjuv och Polis - C#",
+        "description" => "Ett spel där en tjuv och en polis tävlar om att fånga varandra. gjort i C# konsollapp.",
+        "link" => "https://github.com/IIIJonasIII/TjuvPolis"
     ]
 ];
 
